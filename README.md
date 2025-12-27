@@ -19,7 +19,7 @@ Caste: Brahmin – Sarua
 
 Gothram: Parashara
 
-Star - Bicha & Nakshatra: Anuradha
+Star: Bicha & Nakshatra: Anuradha
 
 Location: Asika, Odisha, India
 
