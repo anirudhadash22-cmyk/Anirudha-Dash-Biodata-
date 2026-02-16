@@ -33,7 +33,7 @@ MBA from Kalam Institute of Technology (Under BPUT)
 
 **Organization**: India Medtronic Pvt. Ltd., India
 
-**Employment Type**: Private Sector
+**Employment Type**: Private Sector 
 
 **Annual Income**: ₹10–12 Lakhs
 
