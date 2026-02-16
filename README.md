@@ -23,7 +23,11 @@ Star: Bicha & Nakshatra: Anuradha
 
 Location: Asika, Odisha, India
 
-Education: MBA from Kalam Institute of Technology
+Education: 
+
+B.Tech from PMEC (Govt BPUT College)
+
+MBA from Kalam Institute of Technology (Under BPUT)
 
 Occupation: Software Professional
 
