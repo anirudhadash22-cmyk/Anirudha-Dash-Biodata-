@@ -1,3 +1,57 @@
-# Photos
+# Anirudha-Dash-Biodata
+I come from a traditional yet progressive family where values, respect, and mutual understanding are important.
 
-Here are some images showcasing my work.
+I enjoy adventure sports, traveling, and cooking in my free time. I also like staying informed about current affairs and politics. I believe in continuous learning, maintaining a healthy work–life balance.
+
+**Name**: Anirudha Dash
+
+**Height**: 5 feet 8 inches (172.72 cm)
+
+**Date of Birth**: 23rd January 1998
+
+**Age**: 28 Years
+
+**Marital Status**: Never Married
+
+**Religion**: Hindu
+
+**Caste**: Brahmin – Sarua
+
+**Gothram**: Parashara
+
+**Star**: Bicha & **Nakshatra**: Anuradha
+
+**Location**: Asika, Odisha, India, 761111
+
+**Education**: 
+
+B.Tech from PMEC (Govt BPUT College)
+
+MBA from Kalam Institute of Technology (Under BPUT)
+
+**Designation**: Project Coordinator 
+
+**Organization**: India Medtronic Pvt. Ltd., India
+
+**Employment Type**: Private Sector
+
+**Annual Income**: ₹10–12 Lakhs
+
+**Hobbies & Interests**: Adventure sports, cooking, playing cards, politics, and traveling
+
+**Family Details**:
+
+Father is retired (Section Officer, OUAT Employee)
+Mother is a homemaker
+
+I have three elder sisters; all are married and well settled in Bangalore and Chennai. I am the youngest in the family.
+
+**My contact no** - 8984250288
+
+**My Father's contact no** - 9861727244
+
+![Photo Description](path/to/photo.IMG-20241123-WA0008.jpeg)
+
+## Photos
+
+Add your photos below this section.
