@@ -42,7 +42,6 @@ MBA from Kalam Institute of Technology (Under BPUT)
 **Family Details**:
 
 Father is retired (Section Officer, OUAT Employee)
-
 Mother is a homemaker
 
 I have three elder sisters; all are married and well settled in Bangalore and Chennai. I am the youngest in the family.
