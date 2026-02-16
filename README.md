@@ -41,9 +41,11 @@ Hobbies & Interests:
 Adventure sports, cooking, playing cards, politics, and traveling
 
 Family Details:
-Father is retired
+Father is retired (Section Officer, OUAT Employee)
+
 Mother is a homemaker
-I have three elder sisters; all are married and well settled. I am the youngest in the family.
+
+I have three elder sisters; all are married and well settled in Bangalore and Chennai. I am the youngest in the family.
 
 My contact no - 8984250288
 
