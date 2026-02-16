@@ -29,7 +29,7 @@ B.Tech from PMEC (Govt BPUT College)
 
 MBA from Kalam Institute of Technology (Under BPUT)
 
-**Occupation**: Software Professional
+**Designation**: Project Coordinator 
 
 **Organization**: India Medtronic Pvt. Ltd., India
 
@@ -49,3 +49,7 @@ I have three elder sisters; all are married and well settled in Bangalore and Ch
 **My contact no** - 8984250288
 
 **My Father's contact no** - 9861727244
+
+![Photo Description](path/to/photo.IMG-20241123-WA0008.jpeg)
+
+
