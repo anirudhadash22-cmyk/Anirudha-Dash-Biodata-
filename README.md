@@ -1,4 +1,3 @@
-# Anirudha-Dash-Biodata
 I come from a traditional yet progressive family where values, respect, and mutual understanding are important.
 
 I enjoy adventure sports, traveling, and cooking in my free time. I also like staying informed about current affairs and politics. I believe in continuous learning, maintaining a healthy work–life balance.
