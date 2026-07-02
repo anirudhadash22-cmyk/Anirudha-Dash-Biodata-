@@ -34,7 +34,7 @@ MBA from Kalam Institute of Technology (Under BPUT)
 
 **Employment Type**: Private Sector 
 
-**Annual Income**: ₹10–12 Lakhs
+**Annual Income**: ₹12 Lakhs
 
 **Hobbies & Interests**: Adventure sports, cooking, playing cards, politics, and traveling
 
